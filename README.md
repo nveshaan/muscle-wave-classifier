@@ -2,7 +2,7 @@
 
 ## Overview
 
-Electromyography (EMG) measures electrical activity in muscles, enabling gesture recognition for human-computer interaction. This project uses EMG data to classify a user’s fist state (open or closed) with a neural network. The predictions control a remote-controlled car in real-time, showcasing the potential of assistive technology.
+Electromyography (EMG) measures electrical activity in muscles, enabling gesture recognition for human-computer interaction. This project uses EMG data to classify a user’s fist state (open or closed) with a neural network. The predictions control a remote-controlled car in real-time, showcasing the potential of assistive technology. Check out the project [website](https://nveshaan.github.io/projects/muscle-wave-classifier/)
 
 ## Data Acquisition
 
